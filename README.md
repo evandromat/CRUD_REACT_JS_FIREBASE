@@ -101,3 +101,4 @@ Este projeto está sob a licença (livre) - veja o arquivo [LICENSE.md](https://
 ⌨️ com ❤️ por [Evandro Rocha](https://github.com/evandromat/) 😊⌢䌠啒彄䕒䍁彔半䙟剉䉅十≅ഠ∊‣剃䑕剟䅅呃䩟当䥆䕒䅂䕓•਍"# CRUD_REACT_JS_FIREBASE" 
 "# CRUD_REACT_JS_FIREBASE" 
 "# CRUD_REACT_JS_FIREBASE" 
+"# CRUD_REACT_JS_FIREBASE" 
